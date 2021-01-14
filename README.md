@@ -18,7 +18,7 @@ Imprimir:
 El valor de z es ?
 ```
 
-####Problema 2
+#### Problema 2
 
 En un método principal se debe seleccionar entre dos funciones; en función de un valor ingresado por teclado.
 
